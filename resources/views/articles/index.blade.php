@@ -35,7 +35,7 @@ Mon Blog
           <p>
            {!!$article->bodysearchable!!}
 
-          </p>
+           </p>
 
                   <p>Publier Par: {!!$article->usernamesearchable!!}</p>
              
